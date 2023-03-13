@@ -12,5 +12,5 @@ if (giocatore > computer) {
 } else if (computer > giocatore) {
   console.log("Il computer vince!");
 } else {
-  console.log("Pareggio!");
+  console.log("Pareggio");
 }
